@@ -103,3 +103,16 @@ nav {
     border: 1px solid #ccc;
   }
 }
+
+.basket{
+  height: 40px;
+  width: 40px;
+  float: right;
+}
+
+.basket_text{
+  text-align: center;
+  font-size: 150px;
+  color: blue;
+  background-color: yellow;
+}
